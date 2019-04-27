@@ -17,6 +17,13 @@ Created in AS as follows:
 - Recreated in AS classes in C:\Temp\OpenCV-android-sdk\samples\color-blob-detection\src\org\opencv\samples\colorblobdetect
 - Recreated in AS layout C:\Temp\OpenCV-android-sdk\samples\color-blob-detection\res\layout\color_blob_detection_surface_view.xml
 
+- Changed app icon:
+        - by coping C:\Temp\OpenCV-android-sdk\samples\color-blob-detection\res\drawablicon.png to E:\Users\Gebruiker\Documents\AndroidStudioProjects\OpenCV\app\src\main\res\drawable\icon.png 
+        - In AndroidManifes.xml android:roundIcon="@drawable/icon"
+        Note: Normally in \res\mipmap\ic_launcher
+        
+        
+
 
 
 
